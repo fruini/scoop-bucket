@@ -6,7 +6,7 @@ My personal bucket for [Scoop](https://scoop.sh), the Windows command-line insta
 
 ## Notes about this bucket
 
-I don't include 32bit version in my personal manifests unless there's no 64bit version available.
+I don't include 32bit or arm64 versions in my personal manifests unless there's no 64bit version available.
 
 ## How do I install these manifests?
 
